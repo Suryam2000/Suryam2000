@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suryam2000
 - 👀 I’m interested in ... Coding, Web Development, Learning things more which interests me, Group Project working if interesting, Playing PC games and other....
 - 🌱 I’m currently learning ... Full Stack Web Development in depth(intermediate Front end and beginner back end), DSA in depth, and other coding in depth skills for software development area.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... any project on Web Development and coding area.
 - 📫 How to reach me ... Contact or whatsapp me on 7449778998
 
 <!---
